@@ -31,7 +31,10 @@ I'm a Full Stack Software Engineer based in Warri, Nigeria — currently studyin
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </div>
 
 ---
@@ -46,13 +49,13 @@ A SaaS photo delivery platform built for professional photographers. Handles eve
 
 ## GitHub Stats
 
-![Levi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leviomagbemi&show_icons=true&theme=default&hide_border=true)
+![Levi's GitHub Stats](https://YOUR-VERCEL-URL.vercel.app/api?username=leviomagbemi&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leviomagbemi&layout=compact&hide_border=true)
+![Top Languages](https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=leviomagbemi&layout=compact&hide_border=true)
 
 ---
 
-## Let's Connect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-omagbemi)
 
