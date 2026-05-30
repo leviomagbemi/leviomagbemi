@@ -49,9 +49,9 @@ A SaaS photo delivery platform built for professional photographers. Handles eve
 
 ## GitHub Stats
 
-![Levi's GitHub Stats](https://YOUR-VERCEL-URL.vercel.app/api?username=leviomagbemi&show_icons=true&hide_border=true)
+![Levi's GitHub Stats](https://github-readme-stats-seven-lilac-89.vercel.app/api?username=leviomagbemi&show_icons=true&hide_border=true)
 
-![Top Languages](https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=leviomagbemi&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-seven-lilac-89.vercel.app/api/top-langs/?username=leviomagbemi&layout=compact&hide_border=true)
 
 ---
 
