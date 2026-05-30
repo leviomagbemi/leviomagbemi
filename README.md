@@ -42,10 +42,6 @@ I'm a Full Stack Software Engineer based in Warri, Nigeria — currently studyin
 A SaaS photo delivery platform built for professional photographers. Handles everything from album creation to client delivery with watermarking and automated backups.
 - Stack: Next.js · TypeScript · PostgreSQL · Drizzle ORM · NextAuth.js · Cloudflare R2 · Coolify
 
-### 🔷 ReZerve *(in development)*
-A dual-channel booking platform for Nigerian service providers — bookings via web or entirely inside WhatsApp Business, feeding a single provider dashboard.
-- Stack: Next.js · Django REST Framework · Redis · Celery · PostgreSQL
-
 ---
 
 ## GitHub Stats
