@@ -43,7 +43,7 @@ I'm a Full Stack Software Engineer based in Warri, Nigeria — currently studyin
 
 ### 🔷 [Snapset](https://snapset.com.ng)
 A SaaS photo delivery platform built for professional photographers. Handles everything from album creation to client delivery with watermarking and automated backups.
-- Stack: Next.js · TypeScript · PostgreSQL · Drizzle ORM · NextAuth.js · Cloudflare R2 · Coolify
+- Stack: Next.js · TypeScript · PostgreSQL ·
 
 ---
 
